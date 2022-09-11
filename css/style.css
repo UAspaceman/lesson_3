@@ -1,0 +1,17 @@
+
+
+div{
+   color: red;
+}
+.text{
+   color: red;
+}
+.text-color{
+   color: green;
+}
+.text.lesson{
+   color: purple;
+}
+div.custom-color{
+   color: rgb(227, 249, 29);
+}
